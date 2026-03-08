@@ -1,0 +1,19 @@
+[project]
+name = "langchain-projects"
+version = "0.1.0"
+description = "My solutions for LangChain Introduction Projects"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain>=1.2.3",
+    "langchain-core>=1.2.7",
+    "langchain-mcp-adapters>=0.2.1",
+    "langchain-openai>=1.1.7",
+    "langgraph>=1.0.6",
+    "langgraph-api>=0.7.67",
+    "langgraph-cli>=0.4.14",
+    "langsmith>=0.6.2",
+    "mcp>=1.26.0",
+    "tavily-python>=0.7.19",
+]

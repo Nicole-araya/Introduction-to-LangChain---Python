@@ -4,9 +4,10 @@ This repository contains my personal solutions and implementations for the [Intr
 
 ## Projects Included 📁
 
-* **Project: Personal Chef** – An AI assistant focused on culinary creativity and recipe management.
-* **Project: Wedding Planner** – A specialized chain for organizing events and logistical planning.
-* **Project: Email Assistant** – An automated agent designed to draft and categorize professional communications.
+* **Personal Chef** – An AI assistant focused on culinary creativity and recipe management.
+* **Wedding Planner** – A specialized chain for organizing events and logistical planning.
+* **Email Assistant** – An automated agent designed to draft and categorize professional communications.
+* **Agent-chat-ui** - A modern web interface powered by `agentchat.vercel.ai` that provides a graphical environment (GUI) to interact with the **Email Assistant**
 
 ## 🛠 Prerequisites
 
